@@ -1,10 +1,12 @@
-*{
+*
+{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-body{
+body
+{
     display: flex;
     align-items: center;
     justify-content: center;
@@ -13,7 +15,8 @@ body{
 
 }
 
-h1{
+h1
+{
     font-family: cursive;
     font-size: 1.5rem;
     font-weight: 500;
@@ -21,21 +24,24 @@ h1{
     margin-left: 10%;
 }
 
-.content-1{
+.content-1
+{
     width: 120%;
     background-color: white;
     margin-top: 10%;
     cursor: pointer;
 }
 
-p{
+p
+{
     font-family: Arial, Helvetica,sans-serif;
     font-size: 1rem;
     padding: 10px;
     box-shadow: 0px 5px 10px black;
 }
 
-span{
+span
+{
     position: relative;
     float: right;
     font-size: 1.5rem;
@@ -43,14 +49,16 @@ span{
     padding: 2px 4px 10px 0px;
 }
 
-.content-2{
+.content-2
+{
     width: 120%;
     background-color: white;
     margin-top: 10%;
     cursor: pointer;
 }
 
-p{
+p
+{
     font-size: 1rem;
     padding: 10px;
     font-family: 'Courier New', Courier, monospace;
@@ -58,7 +66,8 @@ p{
 
 }
 
-span{
+span
+{
     position: relative;
     float: right;
     font-size: 1.5rem;
@@ -66,7 +75,8 @@ span{
     padding: 2px 4px 10px 0px;
 }
 
-.content-3{
+.content-3
+{
     width: 120%;
     background-color: white;
     margin-top: 10%;
@@ -74,7 +84,8 @@ span{
 
 }
 
-p{
+p
+{
     font-size: 1rem;
     padding: 10px;
     font-family: 'Courier New', Courier, monospace;
@@ -82,7 +93,8 @@ p{
 
 }
 
-span{
+span
+{
     position: relative;
     float: right;
     font-size: 1.5rem;
